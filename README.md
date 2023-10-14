@@ -2,8 +2,8 @@
 
 - 📃 💡 💻 📝 🔧 I learn, to build things that can make a difference. 
 - 🔦 Segways, rotorcrafts, and reaction wheels led me to robotics. 
-- 🔭I work on constrained dynamics and nonlinear controls. 
-- 🌱I'm currently learning to get to actions from pixels.
+- 🔭I work on constrained dynamics and nonlinear controls.
+- 🌱Currently a RL and safety critical controls student.
 - 📫You can reach me via email!
 - 😄Pronouns: He/Him
 
