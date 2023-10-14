@@ -11,7 +11,7 @@
 
 - QualComm MuJoCo Lecture Sessions for Contact Rich Learning of Bipedal Locomotion[Github](https://github.com/arachakonda/Qualcomm-MuJoCo)
 
-- MTP Session on ROS1 Basics [Github](https://github.com/arachakonda/MTP-0723)
+- MTP Sessions on ROS1 Basics [Github](https://github.com/arachakonda/MTP-0723)
 
 - Dynamics and Control - 1 - Summer School 2022. [YouTube](https://youtube.com/playlist?list=PLoy_JcjmT4hxKOPdmwj_KjN6lO84J253o) ([this](https://www.youtube.com/watch?v=-8B6lbdl3dk&list=PLoy_JcjmT4hxKOPdmwj_KjN6lO84J253o&index=14)).
 
