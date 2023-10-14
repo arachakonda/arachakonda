@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+- 📃 💡 💻 📝 🔧 I learn, to build things that can make a difference. 
+- 🔦 Segways, rotorcrafts, and reaction wheels led me to robotics. 
+- 🔭I work on constrained dynamics and nonlinear controls. 
+- 🌱I'm currently learning to get to actions from pixels.
+- 📫You can reach me via email!
+- 😄Pronouns: He/Him
+
+#### Things other than work, I did at RRC, IIIT Hyderabad
+
+- QualComm MuJoCo Lecture Sessions for Contact Rich Learning of Bipedal Locomotion[Github](https://github.com/arachakonda/Qualcomm-MuJoCo)
+
+- MTP Session on ROS1 Basics [Github](https://github.com/arachakonda/MTP-0723)
+
+- Dynamics and Control - 1 - Summer School 2022. [YouTube](https://youtube.com/playlist?list=PLoy_JcjmT4hxKOPdmwj_KjN6lO84J253o) ([this](https://www.youtube.com/watch?v=-8B6lbdl3dk&list=PLoy_JcjmT4hxKOPdmwj_KjN6lO84J253o&index=14)).
+
+
 <!--
 **arachakonda/arachakonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
