@@ -4,10 +4,10 @@ Visit my website [here](https://ananthrachakonda.com/).
 
 - 📃 💡 💻 📝 🔧 I learn, to build things that can make a difference. 
 - 🔦 Segways, rotorcrafts, and reaction wheels led me to robotics. 
-- 🔭I work on constrained dynamics and nonlinear controls.
-- 🌱Currently a RL and safety critical controls student.
-- 📫You can reach me via email!
-- 😄Pronouns: He/Him
+- 🔭 I work on safe and resilient learning.
+- 🌱 A student of unsupervised learning.
+- 📫 You can reach me via email!
+- 😄 Pronouns: He/Him
 
 
 <details>
