@@ -4,25 +4,20 @@ Visit my website [here](https://ananthrachakonda.com/).
 
 - 📃 💡 💻 📝 🔧 I learn, to build things that can make a difference. 
 - 🔦 Segways, rotorcrafts, and reaction wheels led me to robotics. 
-- 🔭 I work on safe and resilient learning.
+- 🔭 I work on safe and resilient robot behaviours.
 - 🌱 A student of unsupervised learning.
 - 📫 You can reach me via email!
 - 😄 Pronouns: He/Him
 
 
-<details>
+<!-- <details>
   <summary>More...</summary>
 
 
 #### Things other than work, at RRC, IIIT Hyderabad
 
-- QualComm MuJoCo Lecture Sessions for Contact Rich Learning of Bipedal Locomotion [Github](https://github.com/arachakonda/Qualcomm-MuJoCo)
 
-- MTP Sessions on ROS1 Basics [Github](https://github.com/arachakonda/MTP-0723)
-
-- Dynamics and Control - 1 - Summer School 2022. [YouTube](https://youtube.com/playlist?list=PLoy_JcjmT4hxKOPdmwj_KjN6lO84J253o) ([this](https://www.youtube.com/watch?v=SmUbCUNeVN0&list=PLoy_JcjmT4hxKOPdmwj_KjN6lO84J253o&index=16)).
-
-</details>
+</details> -->
 
 <!--
 **arachakonda/arachakonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
