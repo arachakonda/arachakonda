@@ -4,7 +4,7 @@ Visit my website [here](https://ananthrachakonda.com/).
 
 - 📃 💡 💻 📝 🔧 I learn, to build things that can make a difference. 
 - 🔦 Segways, rotorcrafts, and reaction wheels led me to robotics. 
-- 🔭 I work on safe and resilient robot behaviours.
+- 🔭 I work on AI for physical reasoning.
 - 🌱 A student of unsupervised learning.
 - 📫 You can reach me via email!
 - 😄 Pronouns: He/Him
